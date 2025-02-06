@@ -97,7 +97,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "description": "Description: All can be perfect in Flutter...",
       "price": "\$35",
       "rating": "4.3",
-      "author": "by Cadani Beginner",
+      "author": "by Cadaani Beginner",
       "icon": Icons.favorite_border,
       "onTap": () => const overview1(),
     },
