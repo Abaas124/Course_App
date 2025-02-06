@@ -445,7 +445,7 @@ class _LessonCardReactState extends State<LessonCardReact> {
             ],
           ),
         ),
-      ),
-    );
-  }
+      ),
+    );
+  }
 }
